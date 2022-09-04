@@ -1,0 +1,1 @@
+<p>Copyright ©asdasd, Inc. 2022.</p>
